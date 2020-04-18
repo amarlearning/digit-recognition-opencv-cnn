@@ -8,7 +8,7 @@
 > Digit recognition in live video frame using OpenCV and Convolutional Neural Network
 
 ## Demo
-[![Demo GitHub Sectory](https://img.youtube.com/vi/iDYiTE5tH_Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=iDYiTE5tH_Q)
+[![Demo GitHub Sectory](https://github.com/amarlearning/digit-recognition-opencv-cnn/raw/master/test-images/Digit_Recognition_using_OpenCV_and_CNN.gif)](https://www.youtube.com/watch?v=iDYiTE5tH_Q)
 
 ## Issues
 
